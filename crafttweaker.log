@@ -1,0 +1,777 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[2000:contenttweaker]: Embers\Added_Items_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[2000:contenttweaker]: Roots\Added_Items_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Biomes O Plenty\Oredictionary+_biomesoplenty.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Botania\Oredictionary+_botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Exotic Birds\Oredictionary+_exoticbirds.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Globals\Oredictionary+_global.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Ice and Fire\Oredictionary+_iceandfire.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Mystical World\Oredictionary+_mysticalworld.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Antique Atlas\Aspects_antique_atlas.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Baubles\Aspects_baubles.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Biomes O Plenty\Aspects_biomesoplenty.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Exotic Birds\Aspects_exoticbirds.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Gravestones\Aspects_gravestone.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Roots\Aspects_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Botania\Brew_botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Botania\Mana_Infusion_botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Botania\Recipes_botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Embers\Alchemy_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Embers\Dawnstone_Anvil_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Embers\Melter_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Embers\Recipes_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Embers\Stamper_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Globals\Recipes_global.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Ice and Fire\InF_recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Mystical World\Recipes_mysticalworld.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Roots\Barks_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Roots\Mortar_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Roots\Pyre_Crafting_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Roots\Pyre_Rituals_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Thaumcraft\Crucible_thaumcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Thaumcraft\Recipes_thaumcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Roots\Rune_Carving_Function_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Roots\Runed_Woods_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 8ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Loading Script: {[2000:contenttweaker]: Embers\Added_Items_embers.zs}
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Loading Script: {[2000:contenttweaker]: Roots\Added_Items_roots.zs}
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Biomes O Plenty\Oredictionary+_biomesoplenty.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Botania\Oredictionary+_botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Exotic Birds\Oredictionary+_exoticbirds.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Globals\Oredictionary+_global.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Ice and Fire\Oredictionary+_iceandfire.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: Mystical World\Oredictionary+_mysticalworld.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Antique Atlas\Aspects_antique_atlas.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Baubles\Aspects_baubles.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Biomes O Plenty\Aspects_biomesoplenty.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Exotic Birds\Aspects_exoticbirds.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Gravestones\Aspects_gravestone.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[500:crafttweaker]: Roots\Aspects_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Botania\Brew_botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Botania\Mana_Infusion_botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Botania\Recipes_botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Embers\Alchemy_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Embers\Dawnstone_Anvil_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Embers\Melter_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Embers\Recipes_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Embers\Stamper_embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Globals\Recipes_global.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Ice and Fire\InF_recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Mystical World\Recipes_mysticalworld.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Roots\Barks_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Roots\Mortar_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Roots\Pyre_Crafting_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Roots\Pyre_Rituals_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Thaumcraft\Crucible_thaumcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Thaumcraft\Recipes_thaumcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Roots\Rune_Carving_Function_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Roots\Runed_Woods_roots.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 703ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Skipping file {[2000:contenttweaker]: Embers\Added_Items_embers.zs} as we are currently loading with a different loader
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Skipping file {[2000:contenttweaker]: Roots\Added_Items_roots.zs} as we are currently loading with a different loader
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[1000:crafttweaker]: Biomes O Plenty\Oredictionary+_biomesoplenty.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Dead Leaf Pile to ore dictionary entry treeLeaves
+[INITIALIZATION][CLIENT][INFO] Adding Leaf Pile to ore dictionary entry treeLeaves
+[INITIALIZATION][CLIENT][INFO] Adding Orange Cosmos to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Burning Blossom to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Lily of the Valley to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Deathbloom to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Pink Hibiscus to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Wildflower to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Swampflower to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Enderlotus to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Rose to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Lavender to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Pink Dafodil to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Flax to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Rafflesia to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Blue Hydrangea to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Goldenrod to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Bluebells to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Eyebulb to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Violet to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Miner's Delight to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Glowflower to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Clover to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Icy Iris to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding White Anemone to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Bromeliad to ore dictionary entry allFlowers
+[INITIALIZATION][CLIENT][INFO] Adding Tiny Cactus to ore dictionary entry blockCactus
+[INITIALIZATION][CLIENT][INFO] Adding Bramble to ore dictionary entry blockCactus
+[INITIALIZATION][CLIENT][INFO] Adding Wheat Grass to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Medium Grass to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Short Grass to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Desert Sprouts to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Spectral Fern to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Devilweed to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Sea Oats to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Bush to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Clover Patch to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Dune Grass to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Poison Ivy to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Algae to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Desert Grass to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Dead Grass to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Damp Grass to ore dictionary entry tallgrass
+[INITIALIZATION][CLIENT][INFO] Adding Eucalyptus Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Ebony Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Mahogany Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Jacaranda Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Sacred Oak Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Umbran Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Cherry Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Fir Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Ethereal Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Magic Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Mangrove Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Palm Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Redwood Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Willow Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Pine Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Hellbark Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Rotten Flesh to ore dictionary entry flesh
+[INITIALIZATION][CLIENT][INFO] Adding Chunk of Flesh to ore dictionary entry flesh
+[INITIALIZATION][CLIENT][INFO] Adding Thorns to ore dictionary entry deadBush
+[INITIALIZATION][CLIENT][INFO] Adding Reed to ore dictionary entry deadBush
+[INITIALIZATION][CLIENT][INFO] Adding Root to ore dictionary entry deadBush
+[INITIALIZATION][CLIENT][INFO] Adding Dead Bush to ore dictionary entry deadBush
+[INITIALIZATION][CLIENT][INFO] Adding Wilted Lily to ore dictionary entry deadBush
+[INITIALIZATION][CLIENT][INFO] Adding Toadstool to ore dictionary entry mushroom
+[INITIALIZATION][CLIENT][INFO] Adding Portobello to ore dictionary entry mushroom
+[INITIALIZATION][CLIENT][INFO] Adding Blue Milk Cap to ore dictionary entry mushroom
+[INITIALIZATION][CLIENT][INFO] Adding Glowshroom to ore dictionary entry mushroom
+[INITIALIZATION][CLIENT][INFO] Adding Flat Mushroom to ore dictionary entry mushroom
+[INITIALIZATION][CLIENT][INFO] Adding Shadow Shroom to ore dictionary entry mushroom
+[INITIALIZATION][CLIENT][INFO] Adding Ivy to ore dictionary entry vine
+[INITIALIZATION][CLIENT][INFO] Adding Willow Vine to ore dictionary entry vine
+[INITIALIZATION][CLIENT][INFO] Adding Lily Pad to ore dictionary entry lilyPad
+[INITIALIZATION][CLIENT][INFO] Adding Medium Lily Pad to ore dictionary entry lilyPad
+[INITIALIZATION][CLIENT][INFO] Adding Small Lily Pad to ore dictionary entry lilyPad
+[INITIALIZATION][CLIENT][INFO] Adding Tiny Lily Pad to ore dictionary entry lilyPad
+[INITIALIZATION][CLIENT][INFO] Adding Flowered Lily to ore dictionary entry lilyPad
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[1000:crafttweaker]: Botania\Oredictionary+_botania.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Managlass Pane to ore dictionary entry paneGlass
+[INITIALIZATION][CLIENT][INFO] Adding Alfglass Pane to ore dictionary entry paneGlass
+[INITIALIZATION][CLIENT][INFO] Adding Managlass to ore dictionary entry blockGlass
+[INITIALIZATION][CLIENT][INFO] Adding Alfglass to ore dictionary entry blockGlass
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[1000:crafttweaker]: Exotic Birds\Oredictionary+_exoticbirds.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Raw Bird Meat to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[1000:crafttweaker]: Globals\Oredictionary+_global.zs}
+[INITIALIZATION][CLIENT][INFO] Copying contents of ore dictionary entry flesh to protein
+[INITIALIZATION][CLIENT][INFO] Copying contents of ore dictionary entry egg to protein
+[INITIALIZATION][CLIENT][INFO] Adding Raw Porkchop to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Cooked Porkchop to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Raw Fish to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Raw Salmon to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Clownfish to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Cooked Fish to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Cooked Salmon to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Raw Beef to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Steak to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Raw Chicken to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Cooked Chicken to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Raw Rabbit to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Cooked Rabbit to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Raw Mutton to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Cooked Mutton to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[1000:crafttweaker]: Ice and Fire\Oredictionary+_iceandfire.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Desert Myrmex Resin Glass to ore dictionary entry blockGlass
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Myrmex Resin Glass to ore dictionary entry blockGlass
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[1000:crafttweaker]: Mystical World\Oredictionary+_mysticalworld.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Raw Squid to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Calamari to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Cooked Venison to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] Adding Venison to ore dictionary entry protein
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[500:crafttweaker]: Antique Atlas\Aspects_antique_atlas.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[500:crafttweaker]: Baubles\Aspects_baubles.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[500:crafttweaker]: Biomes O Plenty\Aspects_biomesoplenty.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[500:crafttweaker]: Exotic Birds\Aspects_exoticbirds.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[500:crafttweaker]: Gravestones\Aspects_gravestone.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[500:crafttweaker]: Roots\Aspects_roots.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Botania\Brew_botania.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Botania\Mana_Infusion_botania.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Botania\Recipes_botania.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Embers\Alchemy_embers.zs}
+[INITIALIZATION][CLIENT][INFO] Removing Alchemy recipes with output: 1xitem.explosion_charm@0
+[INITIALIZATION][CLIENT][INFO] Adding Alchemy recipe: teamroots.embers.recipe.AlchemyRecipe@6288ddff
+[INITIALIZATION][CLIENT][INFO] Adding custom aspect 'Thaumium Aspectus'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Embers\Dawnstone_Anvil_embers.zs}
+[INITIALIZATION][CLIENT][INFO] Blacklisting teamroots.embers.compat.crafttweaker.IngredientCraftTweaker@67238fbb from being repaired at Dawnstone Anvil.
+[INITIALIZATION][CLIENT][INFO] Removing DawnstoneAnvil recipes with inputs: 1xitem.iceandfire.silver_chestplate@0,1xtile.air@0
+[INITIALIZATION][CLIENT][INFO] Adding DawnstoneAnvil recipe: teamroots.embers.recipe.DawnstoneAnvilRecipe@7fd9c023
+[INITIALIZATION][CLIENT][INFO] Removing DawnstoneAnvil recipes with inputs: 1xitem.iceandfire.silver_leggings@0,1xtile.air@0
+[INITIALIZATION][CLIENT][INFO] Adding DawnstoneAnvil recipe: teamroots.embers.recipe.DawnstoneAnvilRecipe@423140f9
+[INITIALIZATION][CLIENT][INFO] Removing DawnstoneAnvil recipes with inputs: 1xitem.iceandfire.silver_boots@0,1xtile.air@0
+[INITIALIZATION][CLIENT][INFO] Adding DawnstoneAnvil recipe: teamroots.embers.recipe.DawnstoneAnvilRecipe@642a0fa7
+[INITIALIZATION][CLIENT][INFO] Removing DawnstoneAnvil recipes with inputs: 1xitem.iceandfire.silver_helmet@0,1xtile.air@0
+[INITIALIZATION][CLIENT][INFO] Adding DawnstoneAnvil recipe: teamroots.embers.recipe.DawnstoneAnvilRecipe@4947d99d
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Embers\Melter_embers.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Embers\Recipes_embers.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Embers\Stamper_embers.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Globals\Recipes_global.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Ice and Fire\InF_recipes.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Mystical World\Recipes_mysticalworld.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Roots\Barks_roots.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Umbran Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Dead Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Jacaranda Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Eucalyptus Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Magic Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Redwood Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Fir Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Mangrove Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Mahogany Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Hellbark Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Palm Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Sacred Oak Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Pine Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Ebony Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Willow Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Cherry Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Greatwood Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] Adding Silver Bark to ore dictionary entry rootsBark
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Roots\Mortar_roots.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Roots\Pyre_Crafting_roots.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Roots\Pyre_Rituals_roots.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Thaumcraft\Crucible_thaumcraft.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[100:crafttweaker]: Thaumcraft\Recipes_thaumcraft.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Roots\Rune_Carving_Function_roots.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Roots\Runed_Woods_roots.zs}
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker | SIDE_CLIENT]: Error loading {[0:crafttweaker]: Roots\Runed_Woods_roots.zs}: stanhebben.zenscript.parser.TokenException: Invalid character at null:5 - ￿
+stanhebben.zenscript.parser.TokenException: Invalid character at null:5 - ￿
+	at stanhebben.zenscript.parser.TokenStream.advanceToken(TokenStream.java:244)
+	at stanhebben.zenscript.parser.TokenStream.advance(TokenStream.java:203)
+	at stanhebben.zenscript.parser.TokenStream.<init>(TokenStream.java:52)
+	at stanhebben.zenscript.ZenTokener.<init>(ZenTokener.java:157)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:202)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_708_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 1303ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <embers:block_tank>
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for <iceandfire:sapphire_gem> input
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for <iceandfire:silver_ingot> input
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for <mysticalworld:copper_ingot> input
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for <mysticalworld:silver_ingot> input
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "mysticalworld:wasp_attractant"
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <thaumcraft:plate:1>
+[POSTINITIALIZATION][CLIENT][INFO] 1 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for <thaumcraft:nugget> input
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for <thaumcraft:nugget:2> input
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for <thaumcraft:nugget:4> input
+[POSTINITIALIZATION][CLIENT][INFO] Removing all occurences of ingredient: <minecraft:rotten_flesh> and replacing them with <ore:flesh>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all occurences of ingredient: <minecraft:leather> and replacing them with <ore:leather>
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:leather_leggings"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:leather_helmet"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:leather_chestplate"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:leather_boots"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:item_frame"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:book"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "botania:bellows"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "botania:forestdrum_0"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "botania:felpumpkin"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "botania:forestdrum_1"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "botania:forestdrum_2"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "botania:knockbackbelt"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "botania:enderhand"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "botania:travelbelt"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "mysticalworld:leather_from_rotten_flesh"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "iceandfire:blindfold"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "twilightforest:equipment/scepters/zombie_scepter"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "thaumcraft:babulegirdle"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "thaumcraft:babulegirdlefancy"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "thaumcraft:caster_basic"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "thaumcraft:goggles"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "thaumcraft:focuspouch"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "thaumcraft:bellows"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "embers:ember_amulet"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "embers:ember_belt"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "embers:ashen_amulet"
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Magenta Shimmering Mushroom with name ct_shapeless-847617830
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lime Shimmering Mushroom with name ct_shapeless682069280
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Green Shimmering Mushroom with name ct_shapeless765590048
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Purple Shimmering Mushroom with name ct_shapeless673046784
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Light Blue Shimmering Mushroom with name ct_shapeless-1769377892
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Light Gray Shimmering Mushroom with name ct_shapeless-2083210906
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cyan Shimmering Mushroom with name ct_shapeless1289996328
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Red Shimmering Mushroom with name ct_shapeless-2066873728
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Yellow Shimmering Mushroom with name ct_shapeless1603829342
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gray Shimmering Mushroom with name ct_shapeless-1161450844
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Black Shimmering Mushroom with name ct_shapeless-604370208
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Brown Shimmering Mushroom with name ct_shapeless-696913472
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Orange Shimmering Mushroom with name ct_shapeless74142232
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pink Shimmering Mushroom with name ct_shapeless-239690782
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Blue Shimmering Mushroom with name ct_shapeless2135550304
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dragon Meal with name ct_shaped185207149
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Pickaxe with name ct_shaped-1938884299
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Axe with name ct_shaped-427838384
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Hoe with name ct_shaped659175980
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Shovel with name ct_shaped1746178409
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Sword with name ct_shaped477710099
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Boots with name ct_shaped-1789853050
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Leggings with name ct_shaped-438073282
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Chestplate with name ct_shaped-1974774551
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Helmet with name ct_shaped-1859568890
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Dragon Armor with name ct_shaped2116029423
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Dragon Armor with name ct_shaped-85777334
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Dragon Armor with name ct_shaped-1691470636
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Dragon Armor with name ct_shaped1828960680
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Boots with name ct_shaped1270359478
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Leggings with name ct_shaped-1405235870
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Helmet with name ct_shaped206408362
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Chestplate with name ct_shaped189076153
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Wasp Attractant with name mysticalworld_wasp_attractant
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Leather Pants with name minecraft_leather_leggings_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Leather Cap with name minecraft_leather_helmet_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Leather Tunic with name minecraft_leather_chestplate_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Leather Boots with name minecraft_leather_boots_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Item Frame with name minecraft_item_frame_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Book with name minecraft_book_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Manatide Bellows with name botania_bellows_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drum of the Wild with name botania_forestdrum_0_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fel Pumpkin with name botania_felpumpkin_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drum of the Gathering with name botania_forestdrum_1_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drum of the Canopy with name botania_forestdrum_2_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tectonic Girdle with name botania_knockbackbelt_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hand of Ender with name botania_enderhand_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Soujourner's Sash with name botania_travelbelt_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Leather with name mysticalworld_leather_from_rotten_flesh_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blindfold with name iceandfire_blindfold_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Zombie Scepter with name twilightforest_equipment/scepters/zombie_scepter_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Mundane Belt with name thaumcraft_babulegirdle_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fancy Belt with name thaumcraft_babulegirdlefancy_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Caster's Gauntlet with name thaumcraft_caster_basic_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Goggles of Revealing with name thaumcraft_goggles_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Focus Pouch with name thaumcraft_focuspouch_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Arcane Bellows with name thaumcraft_bellows_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ember Amulet with name embers_ember_amulet_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ember Belt with name embers_ember_belt_modified
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ashen Amulet with name embers_ashen_amulet_modified
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <iceandfire:sapphire_gem>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <iceandfire:sapphire_gem>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <mysticalworld:copper_ingot>
+[POSTINITIALIZATION][CLIENT][INFO] 0 recipes removed for: <mysticalworld:copper_ingot>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <mysticalworld:silver_ingot>
+[POSTINITIALIZATION][CLIENT][INFO] 0 recipes removed for: <mysticalworld:silver_ingot>
+[POSTINITIALIZATION][CLIENT][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@28df4b3f
+[POSTINITIALIZATION][CLIENT][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@5ffcaf88
+[POSTINITIALIZATION][CLIENT][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@2e4dc454
+[POSTINITIALIZATION][CLIENT][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@36d948af
+[POSTINITIALIZATION][CLIENT][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@640d7bf8
+[POSTINITIALIZATION][CLIENT][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@5e37181e
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_0@6->4xitem.contenttweaker.bark_umbran@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_4@5->4xitem.contenttweaker.bark_dead@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_3@4->4xitem.contenttweaker.bark_jacaranda@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_3@7->4xitem.contenttweaker.bark_eucalyptus@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_1@5->4xitem.contenttweaker.bark_magic@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_2@4->4xitem.contenttweaker.bark_redwood@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_0@7->4xitem.contenttweaker.bark_fir@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_1@6->4xitem.contenttweaker.bark_mangrove@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_3@5->4xitem.contenttweaker.bark_mahogany@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_2@7->4xitem.contenttweaker.bark_hellbark@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_1@7->4xitem.contenttweaker.bark_palm@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_0@4->4xitem.contenttweaker.bark_sacred_oak@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_2@6->4xitem.contenttweaker.bark_pine@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_3@6->4xitem.contenttweaker.bark_ebony@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_2@5->4xitem.contenttweaker.bark_willow@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_0@5->4xitem.contenttweaker.bark_cherry@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_greatwood@0->4xitem.contenttweaker.bark_greatwood@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] Recipe to add 1xtile.log_silverwood@0->4xitem.contenttweaker.bark_silverwood@0 to Bark Recipes
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <minecraft:egg> into variable output of Eggshell.
+[POSTINITIALIZATION][CLIENT][INFO] ChangeSpellRecipe to change spell spell_geas
+[POSTINITIALIZATION][CLIENT][INFO] ChangeSpellRecipe to change spell spell_acid_cloud
+[POSTINITIALIZATION][CLIENT][INFO] ChangeSpellRecipe to change spell spell_desaturate
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower> into variable output of Mystical White Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:1> into variable output of Mystical Orange Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:2> into variable output of Mystical Magenta Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:3> into variable output of Mystical Light Blue Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:4> into variable output of Mystical Yellow Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:5> into variable output of Mystical Lime Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:6> into variable output of Mystical Pink Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:7> into variable output of Mystical Gray Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:8> into variable output of Mystical Light Gray Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:9> into variable output of Mystical Cyan Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:10> into variable output of Mystical Purple Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:11> into variable output of Mystical Blue Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:12> into variable output of Mystical Brown Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:13> into variable output of Mystical Green Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:14> into variable output of Mystical Red Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:flower:15> into variable output of Mystical Black Petal.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal> into variable output of Floral White Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:1> into variable output of Floral Orange Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:2> into variable output of Floral Magenta Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:3> into variable output of Floral Light Blue Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:4> into variable output of Floral Yellow Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:5> into variable output of Floral Lime Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:6> into variable output of Floral Pink Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:7> into variable output of Floral Gray Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:8> into variable output of Floral Light Gray Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:9> into variable output of Floral Cyan Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:10> into variable output of Floral Purple Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:11> into variable output of Floral Blue Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:12> into variable output of Floral Brown Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:13> into variable output of Floral Green Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:14> into variable output of Floral Red Powder.
+[POSTINITIALIZATION][CLIENT][INFO] MultiMortarRecipe for variable input of <botania:petal:15> into variable output of Floral Black Powder.
+[POSTINITIALIZATION][CLIENT][INFO] Removing Pyre Altar Crafting recipe 1xitem.dewgonia@0
+[POSTINITIALIZATION][CLIENT][INFO] Adding Pyre Crafting Ritual for 3xitem.dewgonia@0
+[POSTINITIALIZATION][CLIENT][INFO] Removing Pyre Altar Crafting recipe 1xtile.baffle_cap_mushroom@0
+[POSTINITIALIZATION][CLIENT][INFO] Adding Pyre Crafting Ritual for 3xtile.baffle_cap_mushroom@0
+[POSTINITIALIZATION][CLIENT][INFO] Adding Pyre Crafting Ritual for 5xitem.cooked_beetroot@0
+[POSTINITIALIZATION][CLIENT][INFO] Adding Pyre Crafting Ritual for 5xitem.cooked_carrot@0
+[POSTINITIALIZATION][CLIENT][INFO] Adding Pyre Crafting Ritual for 5xitem.exoticbirds.birdmeat@0
+[POSTINITIALIZATION][CLIENT][INFO] Modifying Ritual named: ritual_heavy_storms
+[POSTINITIALIZATION][CLIENT][INFO] Modifying Ritual named: ritual_summon_creatures
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+[AVAILABLE][CLIENT][INFO] Attempting to remove brewing recipe for emptiness
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Brew Recipe(s) for emptiness
+[AVAILABLE][CLIENT][INFO] Attempting to remove brewing recipe for resistance
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Brew Recipe(s) for resistance
+[AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<minecraft:leather>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Mana Infusion Recipe(s) for <minecraft:leather>
+[AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<botania:grassseeds:2>]
+[AVAILABLE][CLIENT][INFO] Removing 2 Botania Mana Infusion Recipe(s) for <botania:grassseeds:2>, <botania:grassseeds:2>
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <antiqueatlas:antique_atlas> to: Herba, Aqua, Cognitio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <baubles:ring> to: Praecantatio, Instrumentum, Potentia
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_ore> to: Terra, Desiderium, Vitreus, Alienis, Tenebrae
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_ore:1> to: Terra, Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_ore:2> to: Terra, Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_ore:3> to: Terra, Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_ore:4> to: Terra, Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_ore:5> to: Terra, Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_ore:6> to: Terra, Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem> to: Desiderium, Vitreus, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem:2> to: Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem:3> to: Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem:4> to: Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem:5> to: Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_block> to: Desiderium, Vitreus, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_block:2> to: Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_block:3> to: Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_block:4> to: Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:gem_block:5> to: Desiderium, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:crystal_shard> to: Lux, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:crystal> to: Lux, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:biome_essence> to: Praecantatio, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:biome_block> to: Terra, Perditio, Praecantatio, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:fleshchunk> to: Humanus, Victus, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flesh> to: Bestia, Victus, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:hive> to: Bestia, Victus, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:honeycomb> to: Bestia, Herba, Fabrico
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:hive:2> to: Bestia, Herba, Fabrico
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:hive:1> to: Bestia, Herba, Fabrico, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:hive:3> to: Bestia, Herba, Fabrico, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:filled_honeycomb> to: Bestia, Herba, Fabrico, Sensus, Potentia
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:jar_filled> to: Bestia, Herba, Fabrico, Sensus, Potentia, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:honey_block> to: Bestia, Herba, Fabrico, Sensus, Potentia
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:mudball> to: Aqua, Terra
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:mud_brick> to: Fabrico, Terra
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:mud_brick_block> to: Fabrico, Terra
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:other_slab> to: Fabrico, Terra
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:mud_brick_stairs> to: Fabrico, Terra
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:ash_block> to: Ignis, Perditio, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:ash_block> to: Ignis, Perditio, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:jar_filled:1> to: Vitreus, Spiritus, Ignis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:dried_sand> to: Terra, Perditio, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:grass:8> to: Terra, Ignis, Vitium
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:grass:7> to: Terra, Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:grass:1> to: Terra, Herba
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:grass:2> to: Terra, Perditio, Herba, Vitreus, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:grass:3> to: Terra, Perditio, Herba
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:grass:4> to: Terra, Perditio, Herba, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:grass:5> to: Terra, Herba
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:dirt:2> to: Terra, Perditio, Vitreus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:dirt:1> to: Terra, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:grass:6> to: Terra, Ignis, Herba
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:dirt> to: Terra, Perditio, Vitreus, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:farmland_1> to: Terra, Aqua, Ordo, Vitreus, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:grass_path> to: Terra, Herba, Ordo, Aqua, Vitreus, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:farmland_0> to: Terra, Aqua, Ordo, Vitreus, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:peach> to: Herba, Victus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:berries> to: Herba, Victus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:persimmon> to: Herba, Victus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:pear> to: Herba, Victus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:record_wanderer> to: Sensus, Desiderium, Aer, Motus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:coral> to: Aqua, Bestia, Victus, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:coral:1> to: Aqua, Bestia, Victus, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:coral:2> to: Aqua, Bestia, Victus, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:coral:3> to: Aqua, Bestia, Victus, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:seaweed> to: Aqua, Herba, Victus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:shroompowder> to: Vitium, Potentia
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:mushroom> to: Herba, Tenebrae, Vitium, Potentia
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:mushroom:1> to: Herba, Tenebrae
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:mushroom:4> to: Herba, Tenebrae, Vitium
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:mushroom:3> to: Herba, Tenebrae, Vitium, Lux
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:mushroom:2> to: Herba, Tenebrae, Vitium
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:mushroom:5> to: Herba, Tenebrae, Vitium
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:2> to: Herba, Aer, Victus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:10> to: Herba, Aer, Auram
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:double_plant:3> to: Herba, Aer, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:13> to: Herba, Aer, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1:1> to: Herba, Aer, Spiritus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:waterlily:3> to: Herba, Aqua, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:6> to: Herba, Aer
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:3> to: Herba, Victus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1:5> to: Herba, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:double_plant:1> to: Herba, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1:3> to: Herba, Victus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1:4> to: Herba
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:9> to: Herba, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:12> to: Herba, Aer, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1:9> to: Herba, Aer, Victus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1:8> to: Herba, Aer, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1:2> to: Herba, Aer, Vinculum, Aversio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:13> to: Herba, Aer, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:12> to: Herba, Aer, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_1:5> to: Herba, Victus, Sensus, Aversio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_1:3> to: Herba, Victus, Sensus, Terra
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_1:2> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_1:1> to: Herba, Victus, Sensus, Desiderium
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_1> to: Herba, Victus, Sensus, Auram
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:15> to: Herba, Victus, Sensus, Ignis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:14> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:13> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:11> to: Herba, Victus, Sensus, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:9> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:8> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:7> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:6> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:5> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:4> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:3> to: Herba, Victus, Sensus, Lux
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:1> to: Herba, Victus, Sensus, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:double_plant:3> to: Herba, Victus, Sensus, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:double_plant> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1:10> to: Herba, Victus, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_1:4> to: Herba, Victus, Sensus, Gelum
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:2> to: Herba, Victus, Sensus, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:flower_0:10> to: Herba, Victus, Sensus, Alienis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:double_plant:2> to: Herba, Victus, Sensus, Ignis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1:11> to: Herba, Aer
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:coral:4> to: Herba, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0> to: Herba, Aer, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:1> to: Herba, Aer, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:4> to: Herba, Aer, Vitium
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:7> to: Herba, Aer, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:8> to: Herba, Aer, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:10> to: Herba, Aer, Desiderium
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:14> to: Herba, Aer, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_0:15> to: Herba, Aer, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1> to: Herba, Aer, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:plant_1:7> to: Herba, Aer, Exanimis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:waterlily> to: Herba, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:waterlily:1> to: Herba, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:waterlily:2> to: Herba, Aqua
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <biomesoplenty:waterlily:3> to: Herba, Aqua, Sensus
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: biomesoplenty:wasp to: Vitium, Volatus, Bestia, Aversio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <exoticbirds:birdmeat> to: Bestia, Victus, Aer
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <exoticbirds:phoenix_feather> to: Volatus, Ignis, Aer
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <exoticbirds:phoenix_dust> to: Volatus, Ignis, Aer
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:cassowary to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:duck to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:flamingo to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:gouldianfinch to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:hummingbird to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:kingfisher to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:kiwi to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:lyrebird to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:magpie to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:ostrich to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:owl to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:peafowl to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:parrot to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:pelican to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:emperorpenguin to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:pigeon to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:roadrunner to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:seagull to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:swan to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:toucan to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:vulture to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:woodpecker to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:heron to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:booby to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:cardinal to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:bluejay to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:robin to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:crane to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:kookaburra to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:budgerigar to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:phoenix to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:cloud_phoenix to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:water_phoenix to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:nether_phoenix to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:snow_phoenix to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:desert_phoenix to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:ender_phoenix to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on entity: exoticbirds:twilight_phoenix to: Volatus, Aer, Bestia
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <gravestone:death_info> to: Mortuus, Cognitio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <roots:salmon_of_knowledge> to: Cognitio, Herba, Aqua, Bestia, Praecantatio
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Brew Recipe(s) for emptiness
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Brew Recipe(s) for resistance
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <minecraft:leather>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <botania:grassseeds:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_1:10>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:double_plant>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:double_plant:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:3>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:4>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:5>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:6>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:7>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:8>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:9>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:10>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:11>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:13>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:14>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_0:15>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_1:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_1:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_1:3>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_1:4>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:flower_1:5>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_0:8>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_0:9>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_0:10>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_0:11>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_1:8>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_1:9>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_1:10>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_1:11>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_2:9>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_2:8>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_2:10>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_2:11>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_3:8>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_3:9>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_3:10>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_3:11>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_4:8>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_4:9>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_4:10>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_4:11>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_5:8>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_5:9>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_5:10>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:leaves_5:11>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:coral:4>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_0>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_0:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_0:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_0:4>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_0:7>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_0:8>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_0:10>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_0:13>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_0:14>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_0:15>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_1:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:plant_1:7>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <biomesoplenty:double_plant:3>
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_willow> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_umbran> to: Herba, Perditio, Tenebrae
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_magic> to: Herba, Perditio, Praecantatio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_mangrove> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_palm> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_eucalyptus> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_pine> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_hellbark> to: Herba, Perditio, Ignis
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_ebony> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_dead> to: Herba, Perditio, Mortuus
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_redwood> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_mahogany> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_fir> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_jacaranda> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_cherry> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_sacred_oak> to: Herba, Perditio, Praecantatio, Auram
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_silverwood> to: Herba, Perditio, Auram
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <contenttweaker:bark_greatwood> to: Herba, Perditio
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for Unknown item
